@@ -4,4 +4,4 @@ This full-stack site takes in results from the users questions and then compares
 
 Technology used was Javascript, Express, Body-Parser, Path, HTML, CSS
 
-Deployed on Heroku
+Deployed on Heroku at https://peaceful-gorge-12234.herokuapp.com/
