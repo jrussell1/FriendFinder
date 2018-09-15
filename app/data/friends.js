@@ -1,0 +1,53 @@
+var friendArray = [
+{
+  "name":"John",
+  "photo":"https://www.betrendsetter.com/wp-content/uploads/2016/08/Beard-Styles-for-Round-Faces.jpg",
+  "scores":[
+    "2",
+    "5",
+    "1",
+    "3",
+    "5",
+    "3",
+    "5",
+    "5",
+    "3",
+    "5"
+   ]
+},
+{
+  "name":"Mary",
+  "photo":"https://cdn2.stylecraze.com/wp-content/uploads/2015/03/10-Stylish-Bob-Hairstyles-For-Oval-Faces-1.jpg",
+  "scores":[
+    "5",
+    "5",
+    "5",
+    "1",
+    "1",
+    "1",
+    "5",
+    "1",
+    "1",
+    "1"
+   ]
+},
+{
+  "name":"Jane",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzNP9n2fqxJCJ1MYMkeIh5G0Rx6d6vAymbATncUGcaolZR6pgy6g",
+  "scores":[
+    "1",
+    "1",
+    "4",
+    "5",
+    "5",
+    "5",
+    "3",
+    "5",
+    "2",
+    "5"
+   ]
+},
+];
+
+
+module.exports = friendArray;
